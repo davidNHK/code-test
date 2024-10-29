@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@babel/cli": "7.25.9",
-    "@babel/core": "7.25.9",
+    "@babel/core": "7.26.0",
     "@babel/preset-typescript": "7.26.0",
     "@busybox/babel-preset-typescript": "2024.1.27-alpha.131",
     "@busybox/eslint-config": "2024.1.27-alpha.131",
