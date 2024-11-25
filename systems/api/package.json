@@ -3,8 +3,8 @@
   "dependencies": {
     "@apollo/server": "4.11.2",
     "@aws-sdk/client-dynamodb": "3.696.0",
-    "@aws-sdk/client-s3": "3.698.0",
-    "@aws-sdk/s3-request-presigner": "3.698.0",
+    "@aws-sdk/client-s3": "3.699.0",
+    "@aws-sdk/s3-request-presigner": "3.699.0",
     "@nestjs/apollo": "12.2.1",
     "@nestjs/common": "10.4.8",
     "@nestjs/config": "3.3.0",
